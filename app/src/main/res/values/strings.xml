@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Genius</string>
+    <string name="hello_world">High Score: </string>
+    <string name="unknown">N/A</string>
+</resources>
